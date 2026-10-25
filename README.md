@@ -4,8 +4,7 @@ Graph neural network analysis of Southern California seismicity, with an interac
 
 The project models the region as a **heterogeneous graph** of earthquakes and seismic stations, trains a GraphSAGE model on it, and compares it with classical machine learning. The dashboard lets you explore every event, every graph edge and every model result in the browser.
 
-**Live demo:** _add your Streamlit link here_
-
+**Live demo:** [Open the dashboard](https://seismic-behaviour.streamlit.app/)
 ![Dashboard overview](docs/screenshots/catalog.png)
 
 > **Scope.** This is retrospective analysis and statistical estimation. It does not forecast when or where a specific earthquake will occur, and it should not be used for safety decisions.
