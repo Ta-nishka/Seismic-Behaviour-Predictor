@@ -1,0 +1,4 @@
+space,silhouette (own space),davies_bouldin (own space),NMI vs depth class (test),magnitude eta^2 (test)
+GNN embeddings,0.243,1.65,0.091,0.006
+Raw lat/lon,0.634,0.645,0.083,0.003
+Raw tabular features,0.316,1.292,0.043,0.014

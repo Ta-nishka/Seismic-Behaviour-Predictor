@@ -1,0 +1,5 @@
+cluster,n,mean_mag,max_mag,mean_depth_km,center_lat,center_lon,median_year,dominant_depth_class,top_place
+0,3968,2.98,7.1,5.32,35.74,-117.55,2019.0,shallow,"Little Lake, CA"
+1,1037,2.93,5.29,10.13,35.09,-119.47,2021.0,deep,"Grapevine, CA"
+2,413,2.93,4.82,12.13,33.05,-117.02,2019.0,deep,"Alberto Oviedo Mota, B.C., MX"
+3,2221,2.95,5.25,8.85,33.28,-116.15,2020.0,deep,"Westmorland, CA"
