@@ -1,0 +1,7 @@
+# Full pipeline: download data, build the graph, train the GNN, run the analysis
+-r requirements.txt
+requests
+matplotlib
+torch
+torch_geometric
+umap-learn   # optional, nicer 2D projection (falls back to t-SNE)
